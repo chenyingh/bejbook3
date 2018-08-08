@@ -1,0 +1,317 @@
+\contentsline {chapter}{\numberline {第一章\hspace {0.3em}}绪论}{1}
+\contentsline {section}{\numberline {1.1}洁净煤技术基本概念及框架体系}{1}
+\contentsline {section}{\numberline {1.2}国内外洁净煤技术研究发展状况}{1}
+\contentsline {subsection}{\numberline {1.2.1}国外洁净煤技术研究发展状况}{1}
+\contentsline {subsection}{\numberline {1.2.2}国内洁净煤技术研究发展现状}{2}
+\contentsline {subsubsection}{煤炭加工技术}{2}
+\contentsline {paragraph}{选煤技术}{2}
+\contentsline {paragraph}{动力配煤技术}{2}
+\contentsline {paragraph}{型煤技术}{3}
+\contentsline {paragraph}{水煤浆技术}{3}
+\contentsline {section}{\numberline {1.3}洁净燃煤发电技术}{3}
+\contentsline {subsection}{\numberline {1.3.1}整体煤炭气化燃气-蒸汽联合循环发电（IGCC）}{3}
+\contentsline {subsection}{\numberline {1.3.2}循环流化床燃烧（CFBC）技术}{4}
+\contentsline {subsection}{\numberline {1.3.3}煤炭转化技术}{4}
+\contentsline {subsection}{\numberline {1.3.4}污染控制与资源合理开发利用技术}{4}
+\contentsline {section}{\numberline {1.4}发展洁净煤技术的重大意义}{4}
+\contentsline {section}{\numberline {1.5}清洁生产 }{4}
+\contentsline {chapter}{\numberline {第二章\hspace {0.3em}}煤炭基础知识}{6}
+\contentsline {section}{\numberline {2.1}煤岩学基础}{6}
+\contentsline {subsection}{\numberline {2.1.1}煤的形成}{6}
+\contentsline {subsection}{\numberline {2.1.2}煤的显微组分}{7}
+\contentsline {paragraph}{镜质组}{7}
+\contentsline {paragraph}{壳质组}{7}
+\contentsline {paragraph}{惰质组}{7}
+\contentsline {subsection}{\numberline {2.1.3}煤中的矿物质}{7}
+\contentsline {subsubsection}{煤的岩石类型}{8}
+\contentsline {paragraph}{腐植煤的煤岩类型}{8}
+\contentsline {subparagraph}{镜煤}{8}
+\contentsline {subparagraph}{亮煤}{8}
+\contentsline {subparagraph}{暗煤}{8}
+\contentsline {subparagraph}{丝炭}{8}
+\contentsline {subsubsection}{腐泥煤的煤岩类型}{8}
+\contentsline {subparagraph}{烛煤}{8}
+\contentsline {subparagraph}{藻煤}{8}
+\contentsline {subsubsection}{煤的光泽岩石类型}{9}
+\contentsline {subparagraph}{光亮煤}{9}
+\contentsline {subparagraph}{半亮煤}{9}
+\contentsline {subparagraph}{半暗煤}{9}
+\contentsline {subparagraph}{暗淡煤}{9}
+\contentsline {section}{\numberline {2.2}煤的性质}{9}
+\contentsline {subsection}{\numberline {2.2.1}煤的工业分析}{9}
+\contentsline {subsubsection}{煤中的水分}{9}
+\contentsline {subsubsection}{煤的灰分}{9}
+\contentsline {paragraph}{灰分}{9}
+\contentsline {paragraph}{煤中的矿物质}{9}
+\contentsline {paragraph}{煤灰成分}{10}
+\contentsline {paragraph}{煤灰熔融性}{10}
+\contentsline {paragraph}{煤中的微量元素}{10}
+\contentsline {paragraph}{煤中的有害元素}{10}
+\contentsline {subsubsection}{挥发分和固定炭}{10}
+\contentsline {subsection}{\numberline {2.2.2}煤的元素分析}{10}
+\contentsline {subsubsection}{煤中的碳元素}{10}
+\contentsline {subsubsection}{煤中的氢元素}{10}
+\contentsline {subsubsection}{煤中的氧元素}{10}
+\contentsline {subsubsection}{煤中的氮元素}{11}
+\contentsline {subsubsection}{煤中的硫元素}{11}
+\contentsline {subsection}{\numberline {2.2.3}煤质分析中的基准及其相互换算}{11}
+\contentsline {subsubsection}{基准的基本概念}{11}
+\contentsline {subsubsection}{煤质分析中不同基准的物质含义}{11}
+\contentsline {subsubsection}{各基准间的相互换算}{12}
+\contentsline {subsection}{\numberline {2.2.4}煤的物理性质和工艺性质}{13}
+\contentsline {subsubsection}{煤的物理性质}{13}
+\contentsline {paragraph}{煤的密度}{13}
+\contentsline {paragraph}{煤的机械性质}{13}
+\contentsline {paragraph}{煤的热稳定性}{13}
+\contentsline {subsubsection}{煤的工艺性质}{13}
+\contentsline {paragraph}{煤的发热量}{13}
+\contentsline {subparagraph}{弹筒发热量与恒容高位发热量的校正}{13}
+\contentsline {subparagraph}{弹筒发热量与恒容低位发热量的校正}{13}
+\contentsline {paragraph}{煤的粘结性和结焦性}{14}
+\contentsline {section}{\numberline {2.3}中国煤炭分类}{14}
+\contentsline {subsection}{\numberline {2.3.1}分类方案 }{14}
+\contentsline {subsection}{\numberline {2.3.2}各类煤的基本特性及其主要用途}{14}
+\contentsline {subparagraph}{无烟煤(WY):}{14}
+\contentsline {subparagraph}{贫煤 (PM)：}{14}
+\contentsline {subparagraph}{贫瘦煤 (PS)：}{14}
+\contentsline {subparagraph}{瘦煤（SM）：}{15}
+\contentsline {subparagraph}{焦煤 (JM)：}{15}
+\contentsline {subparagraph}{肥煤 (FM)：}{16}
+\contentsline {subparagraph}{1/3 焦煤 (1/3JM)：}{16}
+\contentsline {subparagraph}{气肥煤 (QF) }{16}
+\contentsline {subparagraph}{气煤(QM)}{16}
+\contentsline {subparagraph}{10、1/2 中粘煤 (1/2ZN)：}{16}
+\contentsline {subparagraph}{弱粘煤 (RN)}{16}
+\contentsline {subparagraph}{不粘煤 (BN)}{16}
+\contentsline {subparagraph}{长焰煤 (CY)}{16}
+\contentsline {section}{\numberline {2.4}中国煤质特征}{16}
+\contentsline {subsection}{\numberline {2.4.1}煤的硫分 }{16}
+\contentsline {subsection}{\numberline {2.4.2}煤的灰分}{17}
+\contentsline {subsection}{\numberline {2.4.3}煤的发热量}{17}
+\contentsline {subsection}{\numberline {2.4.4}中国煤的其它质量指标}{17}
+\contentsline {subparagraph}{煤的挥发分}{17}
+\contentsline {subparagraph}{煤的灰成分和灰熔融性}{17}
+\contentsline {section}{\numberline {2.5}中国煤炭质量分级标准}{17}
+\contentsline {subsection}{\numberline {2.5.1}煤灰分分级}{18}
+\contentsline {subsection}{\numberline {2.5.2}硫分分级}{18}
+\contentsline {subsection}{\numberline {2.5.3}煤炭发热量分级 }{18}
+\contentsline {subsection}{\numberline {2.5.4}煤的挥发分产率分级 }{18}
+\contentsline {section}{\numberline {2.6}各种工业用煤质量指标}{18}
+\contentsline {subsection}{\numberline {2.6.1}炼焦用煤的质量要求}{19}
+\contentsline {subsection}{\numberline {2.6.2}发电用煤的质量要求}{19}
+\contentsline {subsection}{\numberline {2.6.3}气化用煤的质量要求}{19}
+\contentsline {subsection}{\numberline {2.6.4}蒸汽机车用煤的质量要求}{19}
+\contentsline {subsection}{\numberline {2.6.5}水泥回转窑用煤的质量要求}{19}
+\contentsline {subsection}{\numberline {2.6.6}高炉喷吹用无烟煤质量要求}{19}
+\contentsline {chapter}{\numberline {第三章\hspace {0.3em}}煤炭洗选、脱硫与动力配煤}{24}
+\contentsline {section}{\numberline {3.1}煤炭洗选加工现状}{24}
+\contentsline {subsection}{\numberline {3.1.1}煤炭能源在我国的地位和作用}{24}
+\contentsline {subsection}{\numberline {3.1.2}中国煤炭洗选加工现状}{24}
+\contentsline {subsection}{\numberline {3.1.3}选煤工业发展趋势}{25}
+\contentsline {subparagraph}{选煤厂类型}{25}
+\contentsline {subparagraph}{选煤厂规模}{25}
+\contentsline {subparagraph}{选煤技术}{25}
+\contentsline {section}{\numberline {3.2}煤炭洗选工艺}{25}
+\contentsline {subsection}{\numberline {3.2.1}跳汰选煤方面}{25}
+\contentsline {subsection}{\numberline {3.2.2}重介选煤方面}{26}
+\contentsline {subsection}{\numberline {3.2.3}浮游选煤方面}{27}
+\contentsline {subsection}{\numberline {3.2.4}干法选煤方面}{28}
+\contentsline {subsection}{\numberline {3.2.5}辅助工艺及设备方面}{28}
+\contentsline {subsubsection}{分级破碎设备}{28}
+\contentsline {subsubsection}{筛分设备}{29}
+\contentsline {subsubsection}{煤泥水处理}{29}
+\contentsline {subsubsection}{细粒级煤的分选和脱水技术成为研究开发的重点}{29}
+\contentsline {subsubsection}{模块化成为选煤厂设计和建设的新模式}{29}
+\contentsline {subsubsection}{选煤生产过程自动控制和全厂自动化水平不断提高}{29}
+\contentsline {section}{\numberline {3.3}脱硫技术}{30}
+\contentsline {subsection}{\numberline {3.3.1}重选脱硫}{30}
+\contentsline {subsection}{\numberline {3.3.2}电磁选}{30}
+\contentsline {subsection}{\numberline {3.3.3}化学脱硫}{30}
+\contentsline {subsection}{\numberline {3.3.4}生物脱硫技术}{30}
+\contentsline {subsection}{\numberline {3.3.5}微生物表面处理浮选法}{31}
+\contentsline {subsection}{\numberline {3.3.6}煤泥脱硫技术}{31}
+\contentsline {subsection}{\numberline {3.3.7}其他脱硫}{31}
+\contentsline {section}{\numberline {3.4}动力配煤}{31}
+\contentsline {subsection}{\numberline {3.4.1}动力配煤的意义}{31}
+\contentsline {subsection}{\numberline {3.4.2}动力配煤的主要优点}{31}
+\contentsline {subsection}{\numberline {3.4.3}工业锅炉对煤质的要求}{32}
+\contentsline {subsubsection}{室式悬浮燃烧}{32}
+\contentsline {subsubsection}{沸腾燃烧}{32}
+\contentsline {subsubsection}{层状燃烧}{32}
+\contentsline {subparagraph}{水分}{32}
+\contentsline {subparagraph}{灰分}{32}
+\contentsline {subparagraph}{挥发分}{32}
+\contentsline {subparagraph}{发热量}{32}
+\contentsline {subparagraph}{灰熔点}{32}
+\contentsline {subparagraph}{硫分}{32}
+\contentsline {subparagraph}{结焦性或粘结性}{32}
+\contentsline {subparagraph}{粒度}{33}
+\contentsline {subsection}{\numberline {3.4.4}动力配煤的优化配置}{33}
+\contentsline {subsubsection}{动力配煤的原则}{33}
+\contentsline {subsubsection}{. 动力配煤的优化设计}{33}
+\contentsline {subparagraph}{确定约束条件}{33}
+\contentsline {subparagraph}{确定目标函数}{33}
+\contentsline {subparagraph}{建立数学模型}{33}
+\contentsline {subparagraph}{解出优化配方}{33}
+\contentsline {subsection}{\numberline {3.4.5}动力配煤的固硫技术}{33}
+\contentsline {subsubsection}{国内外燃煤脱（固）硫技术现状}{33}
+\contentsline {subparagraph}{燃烧前脱硫}{33}
+\contentsline {subparagraph}{燃烧后脱硫（FGD）}{34}
+\contentsline {subparagraph}{燃烧中脱硫}{34}
+\contentsline {subsubsection}{固硫剂及其助剂的研制开发}{34}
+\contentsline {subparagraph}{固硫技术的基本原理}{34}
+\contentsline {subparagraph}{固硫剂的固硫反应}{34}
+\contentsline {subparagraph}{提高钙基固硫剂高温固硫效果的途径分析}{35}
+\contentsline {subparagraph}{影响动力配煤固硫效果的因素}{35}
+\contentsline {subparagraph}{几种固硫剂的基本配方及其固硫率}{36}
+\contentsline {chapter}{\numberline {第四章\hspace {0.3em}}型煤}{37}
+\contentsline {section}{\numberline {4.1}型煤种类}{37}
+\contentsline {section}{\numberline {4.2}型煤粘结剂}{37}
+\contentsline {subparagraph}{有机粘结剂}{37}
+\contentsline {subparagraph}{无机粘结剂 }{37}
+\contentsline {subparagraph}{工业废物粘结剂}{37}
+\contentsline {subparagraph}{复合粘结剂 }{38}
+\contentsline {section}{\numberline {4.3}民用型煤}{38}
+\contentsline {section}{\numberline {4.4}工业型煤}{38}
+\contentsline {subsection}{\numberline {4.4.1}工业型煤的种类 }{38}
+\contentsline {subsection}{\numberline {4.4.2}工业型煤的特点}{39}
+\contentsline {subsection}{\numberline {4.4.3}工业型煤的应用}{39}
+\contentsline {section}{\numberline {4.5}型煤生产工艺}{39}
+\contentsline {subsection}{\numberline {4.5.1}无粘结剂冷压成型}{39}
+\contentsline {subsubsection}{年轻褐煤无粘结剂成型}{40}
+\contentsline {subsubsection}{烟煤无烟煤无粘结剂成型}{40}
+\contentsline {subsubsection}{清水湿煤棒}{40}
+\contentsline {subsection}{\numberline {4.5.2}粉煤有粘结剂冷压成型}{40}
+\contentsline {subsection}{\numberline {4.5.3}粉煤热压成型}{41}
+\contentsline {subsubsection}{气体热载体快速加热热压成型工艺}{41}
+\contentsline {subsubsection}{固体热载体快速加热热压成型工艺}{41}
+\contentsline {chapter}{\numberline {第五章\hspace {0.3em}}水煤浆技术}{43}
+\contentsline {section}{\numberline {5.1}水煤浆的产生及发展}{43}
+\contentsline {subsection}{\numberline {5.1.1}水煤浆的产生}{43}
+\contentsline {subsection}{\numberline {5.1.2}水煤浆在我国的发展}{43}
+\contentsline {section}{\numberline {5.2}煤的成浆性}{43}
+\contentsline {subsection}{\numberline {5.2.1}煤的成浆性}{43}
+\contentsline {subsection}{\numberline {5.2.2}水煤浆特性}{43}
+\contentsline {subparagraph}{水煤浆浓度}{44}
+\contentsline {subparagraph}{水煤浆流变性}{44}
+\contentsline {subparagraph}{水煤浆的稳定性}{44}
+\contentsline {subsection}{\numberline {5.2.3}煤成浆性的影响因素及评价}{44}
+\contentsline {subsubsection}{影响水煤浆特性因素}{44}
+\contentsline {paragraph}{粒度组成对成浆性影响}{44}
+\contentsline {paragraph}{煤质对成浆性影响}{44}
+\contentsline {subparagraph}{变质程度}{44}
+\contentsline {subparagraph}{煤表面的孔隙特性}{44}
+\contentsline {subparagraph}{煤岩组分}{45}
+\contentsline {subparagraph}{矿物质（灰分）}{45}
+\contentsline {subparagraph}{可磨性}{45}
+\contentsline {subsubsection}{煤成浆性评定（张荣增模型）}{45}
+\contentsline {subsection}{\numberline {5.2.4}改善煤成浆性的措施}{45}
+\contentsline {section}{\numberline {5.3}水煤浆制浆工艺}{46}
+\contentsline {subsection}{\numberline {5.3.1}确定制浆工艺的依据}{46}
+\contentsline {subsubsection}{原料煤特性}{46}
+\contentsline {subsubsection}{级配技术}{46}
+\contentsline {subsubsection}{添加剂特性}{46}
+\contentsline {subsection}{\numberline {5.3.2}制浆方法的主要环节及功能}{47}
+\contentsline {subsection}{\numberline {5.3.3}制浆工艺 }{47}
+\contentsline {subsubsection}{湿法制浆工艺}{47}
+\contentsline {section}{\numberline {5.4}水煤浆添加剂}{47}
+\contentsline {subsection}{\numberline {5.4.1}分散剂的作用机理}{47}
+\contentsline {subsubsection}{润湿分散作用}{48}
+\contentsline {subsubsection}{静电斥力分散作用}{48}
+\contentsline {subsubsection}{空间位阻与熵斥力分散作用}{49}
+\contentsline {subsection}{\numberline {5.4.2}分散剂}{49}
+\contentsline {subsection}{\numberline {5.4.3}稳定剂}{50}
+\contentsline {subsection}{\numberline {5.4.4}其他辅助添加剂}{50}
+\contentsline {section}{\numberline {5.5}水煤浆在贵州的应用}{50}
+\contentsline {subsection}{\numberline {5.5.1}精煤水煤浆}{50}
+\contentsline {subsection}{\numberline {5.5.2}煤泥水煤浆}{51}
+\contentsline {chapter}{\numberline {第六章\hspace {0.3em}}煤的气化技术}{52}
+\contentsline {section}{\numberline {6.1}概述}{52}
+\contentsline {subsection}{\numberline {6.1.1}煤气化的定义和实质}{52}
+\contentsline {subsubsection}{气化与燃烧的区别}{52}
+\contentsline {subsubsection}{气化与液化的区别}{52}
+\contentsline {subsubsection}{气化与干馏的区别}{53}
+\contentsline {section}{\numberline {6.2}煤气化的基本原理}{53}
+\contentsline {subsection}{\numberline {6.2.1}基本气化反应}{53}
+\contentsline {subparagraph}{干燥层}{53}
+\contentsline {subparagraph}{干馏层}{53}
+\contentsline {subparagraph}{还原层}{53}
+\contentsline {subparagraph}{氧化层}{53}
+\contentsline {subparagraph}{灰渣层}{53}
+\contentsline {section}{\numberline {6.3}气化用煤的特性}{54}
+\contentsline {subsection}{\numberline {6.3.1}煤的反应性}{54}
+\contentsline {subsection}{\numberline {6.3.2}煤的粘结性}{54}
+\contentsline {subsection}{\numberline {6.3.3}煤的结渣性}{54}
+\contentsline {subsection}{\numberline {6.3.4}煤的热稳定性}{54}
+\contentsline {subsection}{\numberline {6.3.5}煤的机械强度}{54}
+\contentsline {subsection}{\numberline {6.3.6}煤的粒度分布}{55}
+\contentsline {subsection}{\numberline {6.3.7}煤中水分、灰分及硫分}{55}
+\contentsline {subparagraph}{灰分}{55}
+\contentsline {subparagraph}{硫分}{55}
+\contentsline {section}{\numberline {6.4}煤气化工艺分类}{55}
+\contentsline {subsection}{\numberline {6.4.1}按煤料与气化剂的接触方式，煤气化工艺可分为}{55}
+\contentsline {subparagraph}{固定床气化}{55}
+\contentsline {subparagraph}{流化床气化}{55}
+\contentsline {subparagraph}{气流床气化}{55}
+\contentsline {subparagraph}{熔浴床气化}{55}
+\contentsline {subsection}{\numberline {6.4.2}按向气化过程的供热力式，煤气化工艺可分为}{55}
+\contentsline {subsection}{\numberline {6.4.3}按气化剂种类不同，煤气化工艺可分为}{56}
+\contentsline {subsection}{\numberline {6.4.4}按气化炉内操作压力的高低，煤气化工艺可分为}{56}
+\contentsline {subsection}{\numberline {6.4.5}按气化过程的排灰方式，煤气化工艺可分为}{56}
+\contentsline {subsection}{\numberline {6.4.6}按是否加人催化剂，煤气化工艺可分为}{56}
+\contentsline {subsection}{\numberline {6.4.7}按气化过程是否连续进行，煤气化工艺可分为}{56}
+\contentsline {subsection}{\numberline {6.4.8}为了与地下气化相区别，煤气化工艺可分为}{56}
+\contentsline {section}{\numberline {6.5}典型煤气化工艺}{56}
+\contentsline {subsection}{\numberline {6.5.1}移动床煤气化工艺}{56}
+\contentsline {subsubsection}{混合煤气发生炉气化工艺}{56}
+\contentsline {paragraph}{混合煤气发生炉}{57}
+\contentsline {paragraph}{气化过程}{57}
+\contentsline {paragraph}{主要工艺条件及其影响}{57}
+\contentsline {paragraph}{气化指标及其影响因素}{57}
+\contentsline {subsubsection}{水煤气发生炉气化工艺}{57}
+\contentsline {paragraph}{水煤气发生炉}{57}
+\contentsline {paragraph}{水煤气生产过程}{58}
+\contentsline {paragraph}{气化效率及其影响因素}{58}
+\contentsline {subsubsection}{两段式发生炉气化工艺}{58}
+\contentsline {subsubsection}{鲁奇加压气化工艺}{58}
+\contentsline {paragraph}{加压气化过程分析}{58}
+\contentsline {paragraph}{气化压力的影响}{58}
+\contentsline {subsection}{\numberline {6.5.2}流化床气化工艺}{59}
+\contentsline {subsubsection}{流化床的基本原理}{59}
+\contentsline {subsubsection}{流化床气化工艺的主要特点}{59}
+\contentsline {subsubsection}{温克勒气化工艺}{60}
+\contentsline {paragraph}{温克勒气化炉}{60}
+\contentsline {paragraph}{温克勒气化工艺的优缺点}{60}
+\contentsline {subsubsection}{高温温克勒气化工艺}{60}
+\contentsline {paragraph}{高温温克勒气化炉}{60}
+\contentsline {paragraph}{加压对流化床气化的影响}{60}
+\contentsline {subsection}{\numberline {6.5.3}U－Gas气化炉}{60}
+\contentsline {subsubsection}{U－GaS 气化炉}{60}
+\contentsline {subsubsection}{U一Gas气化工艺的特点}{61}
+\contentsline {subsection}{\numberline {6.5.4}KRW气化工艺 }{61}
+\contentsline {subsubsection}{KRW气化炉}{61}
+\contentsline {subsubsection}{KRW与U一Gas两种气化工艺的比较}{61}
+\contentsline {subsection}{\numberline {6.5.5}气流床煤气化工艺}{61}
+\contentsline {subsubsection}{气流床气化特性分析}{61}
+\contentsline {subsubsection}{气流床气化操作条件分析}{62}
+\contentsline {subsubsection}{K－T气化工艺}{62}
+\contentsline {paragraph}{K 一T气化工艺的优缺点}{62}
+\contentsline {subsubsection}{Texaco气化工艺}{62}
+\contentsline {paragraph}{Texaco气化炉}{62}
+\contentsline {paragraph}{主要工艺条件}{62}
+\contentsline {paragraph}{Texaco气化工艺的特点}{63}
+\contentsline {section}{\numberline {6.6}煤气化技术的应用 }{63}
+\contentsline {chapter}{\numberline {第七章\hspace {0.3em}}煤的液化技术}{64}
+\contentsline {section}{\numberline {7.1}煤的直接液化}{64}
+\contentsline {subsection}{\numberline {7.1.1}概述}{64}
+\contentsline {subsubsection}{直接液化过程}{64}
+\contentsline {subsubsection}{直接液化的原料煤}{64}
+\contentsline {subsubsection}{直接液化的溶剂}{65}
+\contentsline {subsubsection}{直接液化的催化剂}{65}
+\contentsline {section}{\numberline {7.2}煤的间接液化}{65}
+\contentsline {subsection}{\numberline {7.2.1}概述}{65}
+\contentsline {subsection}{\numberline {7.2.2}煤制备其他液体燃料}{65}
+\contentsline {subsubsection}{煤制甲醇的典型工艺}{65}
+\contentsline {subsubsection}{甲醇转化成汽油（MTG）}{65}
+\contentsline {subsubsection}{煤制二甲醚的典型工艺}{66}
+\contentsline {subsection}{\numberline {7.2.3}我国煤间接液化技术}{66}
